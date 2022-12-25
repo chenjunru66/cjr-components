@@ -1,6 +1,6 @@
 {
   "name": "cjr-input",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "cjr-input component",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
