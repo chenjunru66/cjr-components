@@ -1,7 +1,7 @@
 <!--
  * @Author: chenjunru
  * @Date: 2022-12-25 14:45:35
- * @LastEditTime: 2022-12-25 18:45:05
+ * @LastEditTime: 2022-12-25 19:19:04
  * @LastEditors: chenjunru
  * @Description: Do not Edit
  * @FilePath: \my-components\packages\link\src\link.vue
@@ -37,7 +37,7 @@
 <style scoped>
 	.disabled {
 		cursor: not-allowed;
-		font-size: 14px;
+		font-size: 16px;
 	}
 	.no-underline {
 		text-decoration: none;
