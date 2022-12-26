@@ -34,7 +34,7 @@ export default {
 <style scoped>
 .disabled {
   cursor: not-allowed;
-  font-size: 16px;
+  font-size: 18px;
 }
 .no-underline {
   text-decoration: none;
