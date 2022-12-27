@@ -1,6 +1,6 @@
 {
   "name": "cjr-form-item",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "cjr-form-item component",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
