@@ -9,5 +9,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": []
+  "keywords": [],
+  "gitHead": "5ab89e77c41268b784ff72997171dbbd757e0eef"
 }
